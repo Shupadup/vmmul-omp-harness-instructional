@@ -1,0 +1,9 @@
+-- Cray Programming Environment 2.7.32 C
+-- NOTE: CRAYPE_LINK_TYPE LOADEDMODULES changed since initial config!
+-- NOTE: this may cause unexpected build errors.
+-- Cray Programming Environment 2.7.32 CXX
+-- compiler = GNU
+-- setting vector flags for gcc compiler = GNU
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /global/homes/s/spraned/vmmul-omp-harness-instructional/build
